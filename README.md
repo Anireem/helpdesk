@@ -53,3 +53,7 @@ logging:
 ```
 
 [reference](https://github.com/khezen/compose-postgres/pull/23/files)
+
+# Postgres
+
+Create database "helpdesk"
