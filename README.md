@@ -1,6 +1,8 @@
-# helpdesk
-- Install JDK 17;
-- Install Docker;
+# Requirements
+- JDK 17
+- Docker
+- IntelliJ IDEA
+- Maven
 
 # Docker
 
@@ -10,7 +12,7 @@
 
 ## Quick Start
 * Clone or download this repository
-* Go inside of directory,  `cd compose-postgres`
+* Go inside of directory,  `cd docker`
 * Run this command `docker-compose up -d`
 
 
